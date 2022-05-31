@@ -1,9 +1,8 @@
-module github.com/miguelmota/go-ethereum-hdwallet
+module github.com/lmartones/go-ethereum-hdwallet
 
 go 1.12
 
 require (
-	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/btcsuite/btcd v0.21.0-beta
 	github.com/btcsuite/btcutil v1.0.3-0.20201208143702-a53e38424cce
 	github.com/davecgh/go-spew v1.1.1
